@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "My Math",
+  "orientation": "any",
+  "scope": "/my-math/",
+  "short_name": "Math",
+  "start_url": "/my-math/",
+  "theme_color": "#ffffff",
+  "id": "/my-math"
+}
