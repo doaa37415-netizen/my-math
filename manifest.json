@@ -8,5 +8,13 @@
   "short_name": "Math",
   "start_url": "/my-math/",
   "theme_color": "#ffffff",
-  "id": "/my-math"
+  "id": "/my-math",
+  "icons": [
+    {
+      "src": "/my-math/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
 }
